@@ -1,1 +1,1 @@
-# Awesome-Trustworthy-GNNs
+# Awesome Resources on Trustworthy Graph Neural Networks
