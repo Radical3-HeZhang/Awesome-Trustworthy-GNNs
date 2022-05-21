@@ -1,5 +1,5 @@
 # Awesome Resources on Trustworthy Graph Neural Networks
-This is a collection of resources related with trustworthy graph neural networks.
+This is a collection of resources related to trustworthy graph neural networks.
 
 ## Contents
 
@@ -44,7 +44,7 @@ This is a collection of resources related with trustworthy graph neural networks
 
 ## Papers
 
-Here are we only list some papers, more studies can be found  in our [Survey on Trustworthy GNNs](https://arxiv.org/abs/2205.07424). 
+Here we only list some papers. For other studies, please visit our [Survey on Trustworthy GNNs](https://arxiv.org/abs/2205.07424). 
 
 <a name="robustness" />
 
