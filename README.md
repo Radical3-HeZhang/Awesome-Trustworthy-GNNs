@@ -28,7 +28,7 @@ This is a collection of resources related with trustworthy graph neural networks
 ## Related concepts
 
 ### Graph Neural Networks
-1. **A Comprehensive Survey on Graph Neural Networks.** *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
+1. **A Comprehensive Survey on Graph Neural Networks.** *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://ieeexplore.ieee.org/document/9046288)
 2. **Graph Neural Networks: Foundations, Frontiers, and Applications.** *Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao.* 2022. [book](https://graph-neural-networks.github.io/index.html)
 
 ### Trustworthy AI / ML
