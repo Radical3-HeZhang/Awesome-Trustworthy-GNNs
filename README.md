@@ -58,7 +58,7 @@ Here we only list some papers. For other studies, please visit our [Survey on Tr
 2. **Topology attack and defense for graph neural networks: An optimization perspective.** IJCAI 2019. [paper](https://www.ijcai.org/Proceedings/2019/0550.pdf)
 3. **Adversarial examples for graph data: Deep insights into attack and
 defense.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0669.pdf)
-4.  **Fast gradient attack on network embedding.** ARXIV 2018. [paper](https://arxiv.org/pdf/1809.02797.pdf)
+4.  **Fast gradient attack on network embedding.** Arxiv 2018. [paper](https://arxiv.org/pdf/1809.02797.pdf)
 5. **Derivative-free optimization adversarial attacks for graph convolutional networks.** PeerJ Computer Science 2021. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8409335/pdf/peerj-cs-07-693.pdf)
 6. **Adversarial attacks on graph neural networks via node injections: A hierarchical reinforcement learning approach.** WWW 2020. [paper](https://dl.acm.org/doi/10.1145/3366423.3380149)
 7. **Adversarial attacks on neural networks for graph data.** KDD 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3219819.3220078)
@@ -113,7 +113,7 @@ defense.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0669.pdf)
 10. **Robust counterfactual explanations on graph neural networks.** NeurIPS 2021. [paper](https://openreview.net/pdf?id=wGmOLwb8ClT) 
 11. **Towards multi-grained explainability for graph neural networks.** NeurIPS 2021. [paper](https://openreview.net/pdf?id=e5vrkfc5aau)
 12. **Learning and evaluating graph neural network explanations based on counterfactual and factual reasoning.** WWW 2022. [paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3511948)
-13. **Graphlime: Local interpretable model explanations for graph neural networks.** ARXIV 2020. [paper](https://arxiv.org/pdf/2001.06216.pdf)
+13. **Graphlime: Local interpretable model explanations for graph neural networks.** Arxiv 2020. [paper](https://arxiv.org/pdf/2001.06216.pdf)
 14. **Relex: A model-agnostic relational model explainer.** AIES 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3461702.3462562)
 15. **Pgm-explainer: Probabilistic graphical model explanations for graph neural networks.** NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/file/8fb134f258b1f7865a6ab2d935a897c9-Paper.pdf)
 16. **Higher-order explanations of graph neural networks via relevant walks.** TPAMI 2021. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9547794)
@@ -132,16 +132,16 @@ defense.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0669.pdf)
 
 ### Privacy Attacks
 
-1. **Model extraction attacks on graph neural networks: Taxonomy and realization.** ASIACCS. [paper](https://arxiv.org/pdf/2010.12751.pdf)
+1. **Model extraction attacks on graph neural networks: Taxonomy and realization.** AsiaCCS 2022. [paper](https://arxiv.org/pdf/2010.12751.pdf)
 2. **Learning discrete structures for graph neural networks.** ICML 2019. [paper](http://proceedings.mlr.press/v97/franceschi19a.html)
 3. **Quantifying privacy leakage in graph embedding.** MobiQuitous 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3448891.3448939)
-4. **Node-level membership inference attacks against graph neural networks.** ARXIV 2021. [paper](https://arxiv.org/pdf/2102.05429.pdf)
+4. **Node-level membership inference attacks against graph neural networks.** Arxiv 2021. [paper](https://arxiv.org/pdf/2102.05429.pdf)
 5. **Stealing links from graph neural networks.** USENIX Security Symposium 2021. [paper](https://www.usenix.org/system/files/sec21-he-xinlei.pdf)
 6. **Adapting membership inference attacks to GNN for graph classification: Approaches and implications.** IEEE ICDM 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9679062)
-7. **Membership inference attacks on knowledge graphs.** ARXIV 2021. [paper](https://arxiv.org/pdf/2104.08273.pdf)
+7. **Membership inference attacks on knowledge graphs.** Arxiv 2021. [paper](https://arxiv.org/pdf/2104.08273.pdf)
 8. **Inference attacks against graph neural networks.** USENIX Security Symposium 2022. [paper](https://www.usenix.org/system/files/sec22summer_zhang-zhikun.pdf)
 9. **Graphmi: Extracting private graph data from graph neural networks.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0516.pdf)
-10. **Linkteller: Recovering private edges from graph neural networks via influence analysis.** IEEE SP 2022. [paper](https://par.nsf.gov/servlets/purl/10289325) 
+10. **Linkteller: Recovering private edges from graph neural networks via influence analysis.** IEEE S&P 2022. [paper](https://par.nsf.gov/servlets/purl/10289325) 
 11.  **Privacy-preserving representation learning on graphs: A mutual information perspective.** KDD 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467273)
 
 <a name="privacy-preserving" />
@@ -153,30 +153,29 @@ defense.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0669.pdf)
 #### Federated Learning
 
 1. **Federated dynamic graph neural networks with secure aggregation for video-based distributedsurveillance.** IEEE TIST 2022. [paper](https://dl.acm.org/doi/10.1145/3501808)
-2. **Spreadgnn: Serverless multi-task federated learning for graph neural networks.** ARXIV 2021. [paper](https://arxiv.org/pdf/2106.02743.pdf)
+2. **Spreadgnn: Serverless multi-task federated learning for graph neural networks.** Arxiv 2021. [paper](https://arxiv.org/pdf/2106.02743.pdf)
 3. **Federated graph classification over non-iid graphs.** NeurIPS. [paper](https://proceedings.neurips.cc/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)
 4. **A federated multigraph integration approach for connectional brain template learning.** ML-CDS 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4)
-5. **Federated learning of molecular properties in a heterogeneous setting.** ARXIV 2021. [paper](https://arxiv.org/pdf/2109.07258.pdf)
-6. **STFL: A temporal-spatial federated learning framework for graph neural networks.** ARXIV 2021. [paper](https://arxiv.org/pdf/2111.06750.pdf)
-7. **Fedgnn: Federated graph neural network for privacy-preserving recommendation.** ARXIV 2021. [paper](https://arxiv.org/pdf/2102.04925.pdf)
-8. **Federated social recommendation with graph neural network.** ARXIV 2021. [paper](https://arxiv.org/abs/2111.10778)
-9. **A vertical federated learning framework for graph convolutional network.** ARXIV 2021. [paper](https://arxiv.org/pdf/2106.11593.pdf)
-10. **Vertically federated graph neural network for privacypreserving
-node classification.** ARXIV 2020. [paper](https://arxiv.org/pdf/2005.11903.pdf)
+5. **Federated learning of molecular properties in a heterogeneous setting.** Arxiv 2021. [paper](https://arxiv.org/pdf/2109.07258.pdf)
+6. **STFL: A temporal-spatial federated learning framework for graph neural networks.** Arxiv 2021. [paper](https://arxiv.org/pdf/2111.06750.pdf)
+7. **Fedgnn: Federated graph neural network for privacy-preserving recommendation.** Arxiv 2021. [paper](https://arxiv.org/pdf/2102.04925.pdf)
+8. **Federated social recommendation with graph neural network.** Arxiv 2021. [paper](https://arxiv.org/abs/2111.10778)
+9. **A vertical federated learning framework for graph convolutional network.** Arxiv 2021. [paper](https://arxiv.org/pdf/2106.11593.pdf)
+10. **Vertically federated graph neural network for privacypreserving node classification.** Arxiv 2020. [paper](https://arxiv.org/pdf/2005.11903.pdf)
 11. **ASFGNN: automated separated-federated graph neural network.** Peer-to-Peer Networking and Applications 2021. [paper](https://link.springer.com/article/10.1007/s12083-021-01074-w)
-12. **Graphfl: A federated learning framework for semi-supervised node classification on graphs.** ARXIV 2020. [paper](https://arxiv.org/pdf/2012.04187.pdf)
-13. **Fedgl: Federated graph learning framework with global self-supervision.** ARXIV 2021. [paper](https://arxiv.org/pdf/2105.03170.pdf)
+12. **Graphfl: A federated learning framework for semi-supervised node classification on graphs.** Arxiv 2020. [paper](https://arxiv.org/pdf/2012.04187.pdf)
+13. **Fedgl: Federated graph learning framework with global self-supervision.** Arxiv 2021. [paper](https://arxiv.org/pdf/2105.03170.pdf)
 14. **Cross-node federated graph neural network for spatio-temporal data modeling.** KDD 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467371)
 15. **Subgraph federated learning with missing neighbor generation.** NeurIPS 2021. [paper](https://proceedings.neurips.cc/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf)
 16. **Fedgraph: Federated graph learning with intelligent sampling.** IEEE TPDS 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9606516)
-17. **Towards representation identical privacy-preserving graph neural network via split learning.** ARXIV 2021. [paper](https://arxiv.org/pdf/2107.05917.pdf)
-18. **Fedgraphnn: A federated learning system and benchmark for graph neural networks.** ARXIV 2021. [paper](https://arxiv.org/pdf/2104.07145.pdf) 
+17. **Towards representation identical privacy-preserving graph neural network via split learning.** Arxiv 2021. [paper](https://arxiv.org/pdf/2107.05917.pdf)
+18. **Fedgraphnn: A federated learning system and benchmark for graph neural networks.** Arxiv 2021. [paper](https://arxiv.org/pdf/2104.07145.pdf) 
 
 <a name="privacy-preserving-DP" />
 
 #### Differential Privacy
 
-1. **Locally private graph neural networks.** ACM CCS. [paper](https://dl.acm.org/doi/10.1145/3460120.3484565)
+1. **Locally private graph neural networks.** ACM CCS 2021. [paper](https://dl.acm.org/doi/10.1145/3460120.3484565)
 2. **Graph embedding for recommendation against attribute inference attacks.** WWW 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449813)
 
 <a name="privacy-preserving-IT" />
@@ -202,15 +201,15 @@ node classification.** ARXIV 2020. [paper](https://arxiv.org/pdf/2005.11903.pdf)
 <a name="accountability" />
 
 ## Accountability
-1. **A pipeline for fair comparison of graph neural networks in node classification tasks.** ARXIV 2020. [paper](https://arxiv.org/pdf/2012.10619.pdf)
-2. **A novel genetic algorithm with hierarchical evaluation strategy for hyperparameter optimisation of graph neural networks.** ARXIV 2021. [paper](https://arxiv.org/pdf/2101.09300.pdf)
-3. **Bag of tricks of semi-supervised classification with graph neural networks.** ARXIV 2021. [paper](https://arxiv.org/pdf/2103.13355v4.pdf)
+1. **A pipeline for fair comparison of graph neural networks in node classification tasks.** Arxiv 2020. [paper](https://arxiv.org/pdf/2012.10619.pdf)
+2. **A novel genetic algorithm with hierarchical evaluation strategy for hyperparameter optimisation of graph neural networks.** Arxiv 2021. [paper](https://arxiv.org/pdf/2101.09300.pdf)
+3. **Bag of tricks of semi-supervised classification with graph neural networks.** Arxiv 2021. [paper](https://arxiv.org/pdf/2103.13355v4.pdf)
 4. **Bag of tricks for training deeper graph neural networks: A comprehensive benchmark study.** IEEE TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9773017)
-5. **A pipeline for fair comparison of graph neural networks in node classification tasks.** ARXIV 2020. [paper](https://arxiv.org/pdf/2012.10619.pdf)
-6. **A fair comparison of graph neural networks for graph classification.** ARXIV 2019. [paper](https://arxiv.org/pdf/1912.09893.pdf)
+5. **A pipeline for fair comparison of graph neural networks in node classification tasks.** Arxiv 2020. [paper](https://arxiv.org/pdf/2012.10619.pdf)
+6. **A fair comparison of graph neural networks for graph classification.** Arxiv 2019. [paper](https://arxiv.org/pdf/1912.09893.pdf)
 7. **HASHTAG: hash signatures for online detection of fault-injection attacks on deep neural networks.** ICCAD 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9643556)
 8. **Sensitive-sample fingerprinting of deep neural networks.** CVPR 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Sensitive-Sample_Fingerprinting_of_Deep_Neural_Networks_CVPR_2019_paper.pdf)
-9. **Proof-of-learning: Definitions and practice.** IEEE SP 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9519402)
+9. **Proof-of-learning: Definitions and practice.** IEEE S&P 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9519402)
 10. **Proof of learning (pole): Empowering machine learning with consensus building on blockchains (demo).** AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/18013)
 
 <a name="env" />
@@ -261,13 +260,13 @@ node classification.** ARXIV 2020. [paper](https://arxiv.org/pdf/2005.11903.pdf)
 ## Relations
 
 1. **Explainability-based backdoor attacks against graph neural networks.** WiseML 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3468218.3469046)
-2. **Jointly attacking graph neural network and its explanations.** ARXIV 2021. [paper](https://arxiv.org/pdf/2108.03388.pdf)
+2. **Jointly attacking graph neural network and its explanations.** Arxiv 2021. [paper](https://arxiv.org/pdf/2108.03388.pdf)
 3. **Towards a unified framework for fair and stable graph representation learning.** UAI 2021. [paper](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)
 4. **Compositional fairness constraints for graph embeddings.** ICML 2019. [paper](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf)
 5.  **Say no to the discrimination: Learning fair graph neural networks with limited sensitive attribute information.** WSDM 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441752)
 6. **Discrete-valued neural communication.** NeurIPS 2021. [paper](https://papers.nips.cc/paper/2021/file/10907813b97e249163587e6246612e21-Paper.pdf) 
 7. **Graph structure learning for robust graph neural networks.** KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403049) 
-8. **Defensevgae: Defending against adversarial attacks on graph data via a variational graph autoencoder.** ARXIV. [paper](https://arxiv.org/pdf/2006.08900.pdf) 
+8. **Defensevgae: Defending against adversarial attacks on graph data via a variational graph autoencoder.** Arxiv 2020. [paper](https://arxiv.org/pdf/2006.08900.pdf) 
 9. **Robust graph convolutional networks against adversarial attacks.** KDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330851) 
 10. **Transferring robustness for graph neural network against poisoning attacks.** WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371851) 
 11. **Extract the knowledge of graph neural networks and go beyond it: An effective knowledge distillation framework.** WWW 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3442381.3450068) 
@@ -293,10 +292,7 @@ If you need more details, please visit the [Survey on Trustworthy GNNs](https://
   url       = {https://doi.org/10.48550/arXiv.2205.07424},
   doi       = {10.48550/arXiv.2205.07424},
   eprinttype = {arXiv},
-  eprint    = {2205.07424},
-  timestamp = {Tue, 17 May 2022 17:31:03 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2205-07424.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  eprint    = {2205.07424}
 }
 ```
 
