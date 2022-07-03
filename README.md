@@ -1,4 +1,8 @@
 # Awesome Resources on Trustworthy Graph Neural Networks
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/Radical3-HeZhang/Awesome-Trustworthy-GNNs?color=yellow)  ![Forks](https://img.shields.io/github/forks/Radical3-HeZhang/Awesome-Trustworthy-GNNs?color=blue&label=Fork)
+
+
 This is a collection of resources related to trustworthy graph neural networks.
 
 ## Contents
