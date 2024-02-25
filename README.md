@@ -32,7 +32,7 @@ This is a collection of resources related to trustworthy graph neural networks.
 ## Related concepts
 
 ### Trustworthy GNNs
-1. **Trustworthy Graph Neural Networks: Aspects, Methods and Trends.** *He Zhang, Bang Wu, Xingliang Yuan, Shirui Pan, Hanghang Tong, Jian Pei.* 2022. [paper](https://arxiv.org/abs/2205.07424)
+1. **Trustworthy Graph Neural Networks: Aspects, Methods and Trends.** *He Zhang, Bang Wu, Xingliang Yuan, Shirui Pan, Hanghang Tong, Jian Pei.* Proceedings of the IEEE, 2024. [paper](https://arxiv.org/abs/2205.07424)
 2. **A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability.** *Enyan Dai, Tianxiang Zhao, Huaisheng Zhu, Junjie Xu, Zhimeng Guo, Hui Liu, Jiliang Tang, Suhang Wang.* 2022. [paper](https://arxiv.org/abs/2204.08570)
 
 ### Graph Neural Networks
@@ -290,13 +290,9 @@ If you need more details, please visit the [Survey on Trustworthy GNNs](https://
                Hanghang Tong and
                Jian Pei},
   title     = {Trustworthy Graph Neural Networks: Aspects, Methods and Trends},
-  journal   = {CoRR},
-  volume    = {abs/2205.07424},
-  year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2205.07424},
-  doi       = {10.48550/arXiv.2205.07424},
-  eprinttype = {arXiv},
-  eprint    = {2205.07424}
+  journal   = {Proceedings of the IEEE},
+  year      = {2024},
+  doi       = {10.1109/JPROC.2024.3369017},
 }
 ```
 
