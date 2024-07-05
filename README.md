@@ -282,17 +282,24 @@ defense.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0669.pdf)
 
 If you need more details, please visit the [Survey on Trustworthy GNNs](https://arxiv.org/abs/2205.07424).
 ```
-@article{DBLP:journals/corr/abs-2205-07424,
-  author    = {He Zhang and
-               Bang Wu and
-               Xingliang Yuan and
-               Shirui Pan and
-               Hanghang Tong and
-               Jian Pei},
-  title     = {Trustworthy Graph Neural Networks: Aspects, Methods and Trends},
-  journal   = {Proceedings of the IEEE},
-  year      = {2024},
-  doi       = {10.1109/JPROC.2024.3369017},
+@article{DBLP:journals/pieee/ZhangWYPTP24,
+  author       = {He Zhang and
+                  Bang Wu and
+                  Xingliang Yuan and
+                  Shirui Pan and
+                  Hanghang Tong and
+                  Jian Pei},
+  title        = {Trustworthy Graph Neural Networks: Aspects, Methods, and Trends},
+  journal      = {Proc. {IEEE}},
+  volume       = {112},
+  number       = {2},
+  pages        = {97--139},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/JPROC.2024.3369017},
+  doi          = {10.1109/JPROC.2024.3369017},
+  timestamp    = {Tue, 07 May 2024 15:24:37 +0200},
+  biburl       = {https://dblp.org/rec/journals/pieee/ZhangWYPTP24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
